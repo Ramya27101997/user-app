@@ -1,0 +1,6 @@
+#wrapper{
+    margin: 10px;
+    border: 2px solid rgb(117, 117, 221);
+    min-height: 100vh;
+    padding: 10px;
+}
